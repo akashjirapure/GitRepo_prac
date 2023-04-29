@@ -18,6 +18,8 @@ public class Non_static2 {// Non Static method with argument
 		
 		
 		base();
+		
+		Non_static2.base();
 	}
 	
 	
